@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+#bg {
+  background-color: #014638;
+}
+
+#logo {
+  width: 300px;
+  height: 250px;
+  margin-top: -90px;
+  margin-left: -100px;
+  margin-bottom: -85px
+}
+
+#nav-item a {
+  color: white;
+}
+
+#nav-item a.active {
+  color: #D6C553;
+}
+
+#bg1 {
+  background-image: url('../img/gambar3.jpg');
+  
+  
+}
+
+#m1 {
+  margin-top: -40px;
+}
+
+/* 
+---------------------------------------------
+footer
+--------------------------------------------- 
+*/
+footer {
+  text-align: center;
+  padding: 30px 0px;
+}
+
+footer p {
+  color: #232d39;
+  font-size: 13px;
+}
+
+footer p a {
+  cursor: pointer;
+  color: #ed563b;
+}
+
+footer p a:hover {
+  color: #ed563b;
+}
